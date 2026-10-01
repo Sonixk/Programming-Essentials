@@ -1,0 +1,10 @@
+size(800, 500);
+background(180, 210, 230);
+fill(0);
+textSize(24);
+textAlign(CENTER, TOP);
+text("goemiddag", 400, 20);
+textAlign(LEFT, BOTTOM);
+text("goedeavond", 20, 480);
+textAlign(RIGHT, CENTER);
+text("goedemorgen", 780, 250);

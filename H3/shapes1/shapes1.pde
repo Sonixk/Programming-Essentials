@@ -1,0 +1,14 @@
+size(420, 280);
+background(245);
+fill(225, 235, 255);
+stroke(55, 105, 210);
+strokeWeight(3);
+triangle(35, 195, 180, 195, 180, 65);
+fill(225, 250, 235);
+stroke(35, 145, 85);
+strokeWeight(4);
+triangle(235, 185, 365, 185, 300, 80);
+fill(30);
+textSize(15);
+text("rechthoekig", 58, 225);
+text("gelijkbenig", 265, 225);

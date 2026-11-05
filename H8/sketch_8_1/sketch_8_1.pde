@@ -1,4 +1,6 @@
-size(320, 500);
+void setup(){
+  size(320, 500);
+}
 background(225, 230, 220);
 noStroke();
 fill(90);
